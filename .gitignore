@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# datos de PhysioNet (pesan ~1 GB, se descargan solos)
+datos/
+*.dat
+*.hea
+*.atr
+*.zip
+# modelos temporales
+modelo_guardado/
